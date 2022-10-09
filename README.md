@@ -1,5 +1,12 @@
 # Moleküler Patoloji Hakkında / Moleküler Patolojiye Dair  
 
+[![DOI](https://zenodo.org/badge/548000678.svg)](https://zenodo.org/badge/latestdoi/548000678)
+
+[DOI 10.17605/OSF.IO/QZ7CJ](https://osf.io/qz7cj/)
+
+https://doi.org/10.5281/zenodo.7175169
+
+
 ## Moleküler Patoloji nedir?  
 
 Moleküler patoloji, anatomik patoloji, klinik patoloji ve genetiğin birlikte çalıştığı bir alandır. OMICS olarak belirtilen (genomik, proteomik, metabolomik gibi) yeni çalışma alanları ile de ilişkisi olan moleküler patoloji, günlük uygulamada daha çok kanser tanı ve mutasyon analizlerinde yer almaktadır.  
